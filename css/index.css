@@ -267,7 +267,7 @@ footer nav a {
 .container-TI {
     margin: 0 auto;
     width: 900px;
-    height: 150%;
+    height: 180%;
 }
 .top-lifestyle-2 {
     display: flex;
@@ -277,56 +277,124 @@ footer nav a {
 }
 .middle-player {
     padding-top: 20px;
+    font-size: 30x;
+    padding-bottom: 30px;
+    line-height: 1.3;
+    border-bottom: 1px dotted black;
+
 }
+
+
 .warriors-lead {
-    width:40%;
-    height: 60%;
+    width: 20%;
+    padding-bottom: 30px;
 }
 .inner-warriors-lead {
     display: flex;
+    width: 60%;
 }
+
+
+.line-1 {
+    justify-content: left;
+    width: 900px;
+    height: 30%;
+    padding-top: 15px;
+}
+.line-2 {
+    justify-content: flex-end;
+    justify-items: end;
+    margin-left: 130px;
+    width: 800%;
+    padding-top: 15px;
+}
+.inner-warriors-lead img {
+    width: 600px;
+}
+
+
+
+
+
 .clippers {
     display: flex;
-    width: 800px;
+    font-size: 18px;
+    width: 900px;;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
-.lebron {
 
+.lebron {
+    width: 70%;
+    border-bottom: 1px dotted black;
+    padding-bottom: 15px;
 }
 .lebron p {
     height: 90%;
     word-spacing: 3px;
-    width: 90%;
+    width: 120%;
 }
 .antony {
-    margin-left: 20%;
+    word-break: inherit;
+    line-height: 1.4;
+    width: 70%;
+    margin-left: 100px;
+    line-break: initial;
+    border-bottom: 1px dotted black;
+    
 }
+
 .antony p {
-    height: 90%;
-    width: 100%;
+    line-height: 1.3;
+    word-spacing: 4px;
+    width: 120%;
 }
+
+
 .lakers {
     display: flex;
-    padding-top: 15px;
+    padding-top: 20px;
     padding-bottom: 5px;
 }
 .lakers-lead {
     display: flex;
-    width: 200%;
-    padding-top: 15px;
-}
-.lakers-lead p {
-        line-height: 1.3;
-        height: 20%;
+    font-size: 18px;
+    width: 900px;;
+    margin-top: 20px;
+    margin-bottom: 15px;
 }
 .clay {
-    margin-left: 20%;
+    word-break: inherit;
+    line-height: 1.4;
+    width: 70%;
+    margin-left: 50px;
+    line-break: initial;
+    border-bottom: 1px dotted black;
+
+}
+.kevin {
+    width: 70%;
+    border-bottom: 1px dotted black;
+    padding-bottom: 15px;
 }
 .kevin p {
     height: 90%;
     word-spacing: 3px;
-    width: 90%;
+    width: 100%;
 }
 .clay p {
     height: 90%;
     width: 100%;
+}
+.iggy {
+    justify-content: left;
+    width: 900px;
+    height: 30%;
+}
+.green {
+    justify-content: flex-end;
+    justify-items: end;
+    background-color: blue;
+    margin-left: 130px;
+    width: 800%;
 }
