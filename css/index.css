@@ -330,7 +330,7 @@ footer nav a {
     padding-bottom: 15px;
 }
 .lebron p {
-    height: 90%;
+    height: 60%;
     word-spacing: 3px;
     width: 120%;
 }
@@ -369,21 +369,19 @@ footer nav a {
     width: 70%;
     margin-left: 50px;
     line-break: initial;
-    border-bottom: 1px dotted black;
 
 }
 .kevin {
     width: 70%;
-    border-bottom: 1px dotted black;
     padding-bottom: 15px;
 }
 .kevin p {
-    height: 90%;
+    height: 60%;
     word-spacing: 3px;
     width: 100%;
 }
 .clay p {
-    height: 90%;
+    height: 50%;
     width: 100%;
 }
 .iggy {
@@ -397,4 +395,17 @@ footer nav a {
     background-color: blue;
     margin-left: 130px;
     width: 800%;
+}
+.footer-top {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: 1px dotted black;
+}
+button {
+    border-radius: 10px;
+    font-size: 18px;
+    height: 100%;
+    width: 30%;
+    border: 1px solid black;
+    background-color: white;
 }
